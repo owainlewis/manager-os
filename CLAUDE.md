@@ -23,7 +23,7 @@ Link to a fact where it lives. Never copy it into the wiki.
 | Job | Skill | When |
 |---|---|---|
 | Sort my inbox | `email-triage` | Once a day |
-| Brief me on today | `daily-briefing` | Every weekday morning |
+| Brief me on the last 24 hours and where to spend my attention | `daily-briefing` | Every weekday morning |
 | Plan the week | `plan-my-week` | Monday morning |
 | Weekly report for leadership | `weekly-report` | Friday |
 | Prepare a meeting | `meeting-prep` | Before any meeting that isn't a 1:1 |
