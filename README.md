@@ -13,14 +13,14 @@ The starter kit for the AI Manager OS course. It gives your AI one place to work
 ## How the pieces fit
 
 - **This repo** holds how you work: the instructions and the skills.
-- **A Claude project** is the one conversation where you talk to your AI. It reads this repo.
+- **Claude Code** is where you talk to your AI. Open this repo as a project and it reads your instructions every time it starts.
 - **Notion** is your second brain: who you are, your goals, one page per person, your decisions.
 - **Linear** (optional) is where you track work you delegate to the AI.
 
 ## Set up
 
 1. Copy this repo to your own GitHub account (use it as a template, or fork it).
-2. Create a Claude project and add your copy of this repo to it.
+2. Open the Claude desktop app, choose Code, and ask it to clone your copy. Open it as a project.
 3. Connect Notion. Add Google Calendar, Gmail, Slack and Linear if you use them.
 4. Import `example-wiki/` into Notion to see how it fits together, then replace it with your own pages, starting with Me and one team page.
 5. Start the conversation: "Read CLAUDE.md and my Me page in Notion. Tell me what you know about me and what's missing."
@@ -31,6 +31,6 @@ The starter kit for the AI Manager OS course. It gives your AI one place to work
 - Change a skill when it gets something wrong, so the fix stays. Test it again in a fresh conversation.
 - Add a skill when you catch yourself explaining the same job twice.
 
-Using ChatGPT instead? The same files work: paste `CLAUDE.md` into your project instructions and upload the skills as files.
+Using ChatGPT instead? The idea is the same, store your instructions and have the AI read them when it starts: paste `CLAUDE.md` into your project instructions and upload the skills as files.
 
 Everything in `example-wiki/` is fictional.
