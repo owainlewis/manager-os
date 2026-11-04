@@ -10,9 +10,9 @@ Read my Me and Goals pages in the wiki. For anything about a person, read their 
 
 | What | Where |
 |---|---|
-| Who I am, our goals, my team, decisions, how we work | The wiki in Notion: Me, Goals, Team (one page per person), Stakeholders, How we work, Decisions |
+| Who I am, our goals, my team, what we own, decisions, how we work | The wiki in Notion, home page [Alpha Corporation: Engineering wiki](https://app.notion.com/p/40d98b843385816abb20c1997dfcb018). Pages: Me, What we own, Goals, Team (one page per person), Stakeholders, How we work, Decisions |
 | Skills, the playbooks for recurring jobs | `.claude/skills/` in this repo, one folder per job |
-| Tasks and work I delegate to you | Linear, if it's connected. If not, we track work in this conversation |
+| Tasks and work I delegate to you | Linear, team ALP. Work for you has the "delegated" label. If Linear isn't connected, we track work in this conversation |
 | Meeting transcripts | Zoom (or wherever my meetings are recorded). Link to them, never copy them |
 | Conversations | Slack and email |
 
