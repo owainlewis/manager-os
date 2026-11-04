@@ -9,7 +9,7 @@
 ## Work
 - Every piece of work is a Linear issue. If it's not in Linear, it isn't planned.
 - Weekly cycles start on Monday.
-- Agent work gets the "agent" label. The agent reports back as a comment on the issue.
+- Work I hand to the agent gets the "delegated" label. The agent reports back as a comment on the issue.
 
 ## Code review
 - Every pull request needs one approval.
