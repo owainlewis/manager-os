@@ -20,7 +20,15 @@ The starter kit for the AI Manager OS course. It gives your AI one place to work
 ## Set up
 
 1. Copy this repo to your own GitHub account (use it as a template, or fork it).
-2. Open the Claude desktop app, choose Code, and ask it to clone your copy. Open it as a project.
+2. Open the Claude desktop app, choose Code, and ask it to clone your copy. Open it as a project, add your copy of the repo to it, and paste this into the project instructions:
+
+   ```
+   You are my chief of staff. My operating system is the manager-os repo attached to this project.
+   Before any task, read CLAUDE.md in that repo and follow it. It says where my wiki, tasks and tools are, and which skill in .claude/skills/ to use for each job.
+   If you can't read the repo, say so and stop.
+   ```
+
+   Keep the rules in `CLAUDE.md`, not in the project instructions, so there is one place to change them.
 3. Connect Notion. Add Google Calendar, Gmail, Slack and Linear if you use them.
 4. Import `example-wiki/` into Notion to see how it fits together, then replace it with your own pages, starting with Me and one team page. Put the link to your wiki's home page, and your Linear team, in the Where things live table in `CLAUDE.md`.
 5. Start the conversation: "Read CLAUDE.md and my Me page in Notion. Tell me what you know about me and what's missing."
