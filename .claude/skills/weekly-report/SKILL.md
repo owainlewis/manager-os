@@ -1,6 +1,6 @@
 ---
 name: weekly-report
-description: Draft the weekly report for leadership: shipped, slipped, blocked, goals, asks. Use on Fridays.
+description: Draft the weekly report for leadership: critical projects, shipped, slipped, blocked, goals, asks. Use on Fridays.
 ---
 
 # Weekly report
@@ -14,11 +14,12 @@ A routine every Friday, before the report is due.
 - Notion: Goals, and this week's entries in Decisions
 
 ## Steps
-1. Shipped: list what shipped, grouped by project, each linked to its issue.
-2. Slipped: the original date, the new date and the reason given. If none is recorded, write "no reason recorded".
-3. Blocked: what it's waiting on, and who.
-4. Goals: one line on progress for each goal.
-5. Asks: decisions, people or budget I need from leadership. Only asks I've already raised or that the data clearly shows.
+1. Critical projects: for each project tied to a goal, one line: On track, At risk or Off track, the date we're working to, and why. Use the status-update skill's definitions.
+2. Shipped: list what shipped, grouped by project, each linked to its issue.
+3. Slipped: the original date, the new date and the reason given. If none is recorded, write "no reason recorded".
+4. Blocked: what it's waiting on, and who.
+5. Goals: one line on progress for each goal.
+6. Asks: decisions, people or budget I need from leadership. Only asks I've already raised or that the data clearly shows.
 
 ## Output
 A one-page draft in the format my readers use, commented on the weekly report task.

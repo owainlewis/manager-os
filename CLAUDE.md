@@ -10,9 +10,9 @@ Read my Me and Goals pages in the wiki. For anything about a person, read their 
 
 | What | Where |
 |---|---|
-| Who I am, our goals, my team, decisions, how we work | The wiki in Notion: Me, Goals, Team (one page per person), Stakeholders, How we work, Decisions |
+| Who I am, our goals, my team, what we own, decisions, how we work | The wiki in Notion, home page [Alpha Corporation: Engineering wiki](https://app.notion.com/p/40d98b843385816abb20c1997dfcb018). Pages: Me, What we own, Goals, Team (one page per person), Stakeholders, How we work, Decisions |
 | Skills, the playbooks for recurring jobs | `.claude/skills/` in this repo, one folder per job |
-| Tasks and work I delegate to you | Linear, if it's connected. If not, we track work in this conversation |
+| Tasks and work I delegate to you | Linear, team ALP. Work for you has the "delegated" label. If Linear isn't connected, we track work in this conversation |
 | Meeting transcripts | Zoom (or wherever my meetings are recorded). Link to them, never copy them |
 | Conversations | Slack and email |
 
@@ -26,6 +26,7 @@ Link to a fact where it lives. Never copy it into the wiki.
 | Flag what needs me from the last 24 hours | `daily-briefing` | Every weekday morning |
 | Plan the week | `plan-my-week` | Monday morning |
 | Weekly report for leadership | `weekly-report` | Friday |
+| Write a project status update | `status-update` | Weekly for each project, or when someone asks where one is |
 | Prepare a meeting | `meeting-prep` | Before any meeting that isn't a 1:1 |
 | Prepare a 1:1 | `one-on-one-prep` | The morning of every 1:1 |
 | Follow up a meeting | `meeting-follow-up` | After any meeting with actions |

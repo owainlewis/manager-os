@@ -6,7 +6,7 @@ This is the wiki for the Payments Engineering group at Alpha Corporation, a made
 
 | What | Where |
 |---|---|
-| Tasks and projects | Linear (team PAY) |
+| Tasks and projects | Linear (team ALP) |
 | Notes about me, our goals, my team and our decisions | This wiki |
 | Meeting notes and transcripts | Zoom. Link to them, never copy them here |
 | Conversations | Slack and email |
@@ -15,6 +15,7 @@ This is the wiki for the Payments Engineering group at Alpha Corporation, a made
 ## Pages
 
 - [Me](Me.md): my role, what I own and how I work
+- [What we own](What%20we%20own.md): our services, who leads each one, and our open projects
 - [Goals](Goals.md): what we're trying to achieve this quarter
 - [Team](Team.md): one page per direct report
 - [Stakeholders](Stakeholders.md): the people outside the team I work with most
