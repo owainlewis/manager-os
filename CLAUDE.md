@@ -26,6 +26,7 @@ Link to a fact where it lives. Never copy it into the wiki.
 | Flag what needs me from the last 24 hours | `daily-briefing` | Every weekday morning |
 | Plan the week | `plan-my-week` | Monday morning |
 | Weekly report for leadership | `weekly-report` | Friday |
+| Write a project status update | `status-update` | Weekly for each project, or when someone asks where one is |
 | Prepare a meeting | `meeting-prep` | Before any meeting that isn't a 1:1 |
 | Prepare a 1:1 | `one-on-one-prep` | The morning of every 1:1 |
 | Follow up a meeting | `meeting-follow-up` | After any meeting with actions |

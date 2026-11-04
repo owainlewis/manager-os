@@ -7,7 +7,7 @@ The starter kit for the AI Manager OS course. It gives your AI one place to work
 | Path | What it is |
 |---|---|
 | `CLAUDE.md` | The instructions your AI reads at the start of every conversation: where things live, which skill to use, and the rules |
-| `.claude/skills/` | 11 skills, one per job: email triage, daily briefing, plan my week, weekly report, meeting prep, 1:1 prep, meeting follow-up, team page update, decision log, project audit, find the bottleneck |
+| `.claude/skills/` | 12 skills, one per job: email triage, daily briefing, plan my week, weekly report, status update, meeting prep, 1:1 prep, meeting follow-up, team page update, decision log, project audit, find the bottleneck |
 | `example-wiki/` | The wiki for Alpha Corporation, a made-up company used in the course demos: Me, Goals, Team (7 people), Stakeholders, How we work, Decisions |
 
 ## How the pieces fit
