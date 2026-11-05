@@ -29,7 +29,7 @@ Link to a fact where it lives. Never copy it into the wiki.
 | Write a project status update | `status-update` | Weekly for each project, or when someone asks where one is |
 | Prepare a meeting | `meeting-prep` | Before any meeting that isn't a 1:1 |
 | Prepare a 1:1 | `one-on-one-prep` | The morning of every 1:1 |
-| Follow up a meeting | `meeting-follow-up` | After any meeting with actions |
+| Write meeting notes and follow up a meeting | `meeting-follow-up` | After any meeting with actions |
 | Update a team page | `team-page-update` | After a 1:1, or when something about a person changes |
 | Log a decision | `decision-log-entry` | When I make a decision |
 | Audit a project | `project-audit` | When a project worries me |
